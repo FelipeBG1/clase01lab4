@@ -1,0 +1,10 @@
+<input type="number" [(ngModel)] = "edadUno">
+<input type="number" [(ngModel)] = "edadDos">
+
+<input type="button" value="Calcular" (click)="calcular()">
+<input type="button" value="Limpiar" (click)="limpiar()">
+
+<input value="{{suma}}" readonly>
+<input value="{{promedio}}" readonly>
+
+<router-outlet></router-outlet>
