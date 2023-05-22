@@ -1,0 +1,12 @@
+C:\Users\felib\Desktop\ClasesTestUnitarios\bin\Debug\net6.0\ClasesTestUnitarios.deps.json
+C:\Users\felib\Desktop\ClasesTestUnitarios\bin\Debug\net6.0\ClasesTestUnitarios.dll
+C:\Users\felib\Desktop\ClasesTestUnitarios\bin\Debug\net6.0\ClasesTestUnitarios.pdb
+C:\Users\felib\Desktop\ClasesTestUnitarios\obj\Debug\net6.0\ClasesTestUnitarios.csproj.AssemblyReference.cache
+C:\Users\felib\Desktop\ClasesTestUnitarios\obj\Debug\net6.0\ClasesTestUnitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felib\Desktop\ClasesTestUnitarios\obj\Debug\net6.0\ClasesTestUnitarios.AssemblyInfoInputs.cache
+C:\Users\felib\Desktop\ClasesTestUnitarios\obj\Debug\net6.0\ClasesTestUnitarios.AssemblyInfo.cs
+C:\Users\felib\Desktop\ClasesTestUnitarios\obj\Debug\net6.0\ClasesTestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\felib\Desktop\ClasesTestUnitarios\obj\Debug\net6.0\ClasesTestUnitarios.dll
+C:\Users\felib\Desktop\ClasesTestUnitarios\obj\Debug\net6.0\refint\ClasesTestUnitarios.dll
+C:\Users\felib\Desktop\ClasesTestUnitarios\obj\Debug\net6.0\ClasesTestUnitarios.pdb
+C:\Users\felib\Desktop\ClasesTestUnitarios\obj\Debug\net6.0\ref\ClasesTestUnitarios.dll
